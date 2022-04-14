@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthyMenuFinder", "HealthyMenuFinder\HealthyMenuFinder.csproj", "{F7ABDF99-C736-41F7-9FD8-7D812628009D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthyMenuMaker", "HealthyMenuFinder\HealthyMenuMaker.csproj", "{F7ABDF99-C736-41F7-9FD8-7D812628009D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
